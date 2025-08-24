@@ -1,17 +1,12 @@
 [
     {
         "ID": 1,
-        "Task": "Comprar doritos",
-        "Description": "en la tienda"
-    },
-    {
-        "ID": 2,
-        "Task": "Doblar la ropa",
-        "Description": "Guardar la ropa en su respectivo sitio"
+        "Task": "comprar cel",
+        "Description": "iphone 15"
     },
     {
         "ID": 3,
-        "Task": "Ir a comprar un celular",
-        "Description": "Tengo que ir a alkosto a mercarlo"
+        "Task": "dise\u00f1ar pagina web",
+        "Description": "en flask"
     }
 ]
