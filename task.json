@@ -1,3 +1,17 @@
-{
-    "sada": "dfasfa"
-}
+[
+    {
+        "ID": 1,
+        "Task": "Comprar doritos",
+        "Description": "en la tienda"
+    },
+    {
+        "ID": 2,
+        "Task": "Doblar la ropa",
+        "Description": "Guardar la ropa en su respectivo sitio"
+    },
+    {
+        "ID": 3,
+        "Task": "Ir a comprar un celular",
+        "Description": "Tengo que ir a alkosto a mercarlo"
+    }
+]
